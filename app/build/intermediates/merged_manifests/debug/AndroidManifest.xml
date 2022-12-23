@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.encardio.er_ngrf.activity"
+    android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:allowClearUserData="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.encardio.er_ngrf.activity.AllPermissionsActivity"
+            android:exported="true" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="com.encardio.er_ngrf.activity.GraphActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.URL_SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.achartengine.GraphicalActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.DeviceListActivity"
+            android:screenOrientation="unspecified" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.UploadDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.ViewDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.GatewayConfigActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.NodeConfigActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.GatewayWizardActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.NodeWizardActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.GatewayInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.encardio.er_ngrf.activity.NodeInfoActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.encardio.er_ngrf.activity.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+    </application>
+
+</manifest>

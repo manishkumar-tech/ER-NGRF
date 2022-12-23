@@ -1,0 +1,27 @@
+<resources>
+
+    <color name="colorPrimary">#0398fc</color>
+    <color name="colorPrimaryDark">#0398fc</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="color_bg">#FFFFFF</color>
+
+
+    <color name="heading_text_color">#00ff00</color>
+    <color name="label_text_color">#000000</color>
+    <color name="value_text_color">#000000</color>
+    <color name="edit_value_text_color">#000000</color>
+    <color name="button_text_color">#ffffff</color>
+
+
+    <color name="LAY_BG_COL">#227799</color> <!-- Layout Background color  -->
+    <color name="LAY_TXT_HEAD_COL">#00ff00</color> <!-- Layout Text Heading color  -->
+    <color name="LAY_TXT_VAL_COL">#ffff00</color> <!-- Layout Text Value color  -->
+    <color name="LIST_BG_COL">#ababab</color>  <!-- List background color  -->
+    <!-- Selected List background color  -->
+    <color name="LAY_HIGHLIGHT_COL">#114466
+    </color>    <!-- for noice bar background and highlight test  -->
+    <color name="LAY_HIGHTLIGHT_COL_2">#235678
+    </color>    <!-- for noice bar background and highlight test  -->
+    <!-- for noice bar background and highlight test  -->
+</resources>  

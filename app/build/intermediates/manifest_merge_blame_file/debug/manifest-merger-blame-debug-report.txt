@@ -1,0 +1,238 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.encardio.er_ngrf.activity"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+12-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:8:5-76
+12-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:8:22-73
+13    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+13-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:9:5-73
+13-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:9:22-70
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:10:5-80
+14-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:10:22-77
+15    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+15-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:11:5-74
+15-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:11:22-71
+16    <uses-permission android:name="android.permission.BLUETOOTH" />
+16-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:12:5-68
+16-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:12:22-65
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:13:5-75
+17-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:13:22-72
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:14:5-68
+18-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:14:22-65
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:15:5-66
+19-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:15:22-63
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:16:5-81
+20-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:16:22-78
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:17:5-67
+21-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:17:22-64
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:18:5-79
+22-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:18:22-76
+23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+23-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:19:5-79
+23-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:19:22-76
+24    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+24-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:20:5-81
+24-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:20:22-78
+25    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+25-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:21:5-98
+25-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:21:22-95
+26    <uses-permission android:name="android.permission.SEND_SMS" />
+26-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:22:5-67
+26-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:22:22-64
+27    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+27-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:23:5-25:40
+27-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:24:9-66
+28
+29    <application
+29-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:27:5-104:19
+30        android:allowBackup="true"
+30-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:28:9-35
+31        android:allowClearUserData="false"
+31-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:29:9-43
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.8.0] C:\Users\manishk\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@drawable/icon"
+34-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:30:9-38
+35        android:label="@string/app_name"
+35-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:31:9-41
+36        android:roundIcon="@drawable/icon"
+36-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:32:9-43
+37        android:supportsRtl="true"
+37-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:33:9-35
+38        android:testOnly="true"
+39        android:theme="@style/AppTheme" >
+39-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:34:9-40
+40        <activity
+40-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:35:9-43:20
+41            android:name="com.encardio.er_ngrf.activity.AllPermissionsActivity"
+41-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:36:13-51
+42            android:exported="true" >
+42-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:37:13-36
+43
+44            <!-- <intent-filter> -->
+45            <!-- <action android:name="android.intent.action.MAIN" /> -->
+46
+47
+48            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+49            <!-- </intent-filter> -->
+50        </activity>
+51        <activity
+51-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:44:9-46:40
+52            android:name="com.encardio.er_ngrf.activity.GraphActivity"
+52-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:45:13-42
+53            android:exported="false" />
+53-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:46:13-37
+54        <activity
+54-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:47:9-49:40
+55            android:name="com.encardio.er_ngrf.activity.URL_SettingsActivity"
+55-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:48:13-49
+56            android:exported="false" />
+56-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:49:13-37
+57        <activity
+57-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:50:9-60:20
+58            android:name="com.encardio.er_ngrf.activity.SplashActivity"
+58-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:51:13-43
+59            android:exported="true"
+59-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:52:13-36
+60            android:screenOrientation="portrait" >
+60-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:53:13-49
+61            <intent-filter>
+61-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:55:13-59:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:56:17-69
+62-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:56:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:58:17-77
+64-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:58:27-74
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:61:9-64:56
+68            android:name="org.achartengine.GraphicalActivity"
+68-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:62:13-62
+69            android:screenOrientation="landscape" />
+69-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:63:13-50
+70        <activity
+70-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:65:9-69:56
+71            android:name="com.encardio.er_ngrf.activity.DeviceListActivity"
+71-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:66:13-47
+72            android:screenOrientation="unspecified" />
+72-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:67:13-52
+73        <activity
+73-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:70:9-73:56
+74            android:name="com.encardio.er_ngrf.activity.HomeActivity"
+74-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:71:13-41
+75            android:screenOrientation="portrait" />
+75-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:72:13-49
+76        <activity
+76-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:74:9-77:56
+77            android:name="com.encardio.er_ngrf.activity.UploadDataActivity"
+77-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:75:13-47
+78            android:screenOrientation="portrait" />
+78-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:76:13-49
+79        <activity
+79-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:78:9-81:56
+80            android:name="com.encardio.er_ngrf.activity.ViewDataActivity"
+80-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:79:13-45
+81            android:screenOrientation="portrait" />
+81-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:80:13-49
+82        <activity
+82-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:82:9-84:40
+83            android:name="com.encardio.er_ngrf.activity.GatewayConfigActivity"
+83-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:83:13-50
+84            android:exported="false" />
+84-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:84:13-37
+85        <activity
+85-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:85:9-87:40
+86            android:name="com.encardio.er_ngrf.activity.NodeConfigActivity"
+86-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:86:13-47
+87            android:exported="false" />
+87-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:87:13-37
+88        <activity
+88-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:88:9-90:40
+89            android:name="com.encardio.er_ngrf.activity.GatewayWizardActivity"
+89-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:89:13-50
+90            android:exported="false" />
+90-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:90:13-37
+91        <activity
+91-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:91:9-93:40
+92            android:name="com.encardio.er_ngrf.activity.NodeWizardActivity"
+92-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:92:13-47
+93            android:exported="false" />
+93-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:93:13-37
+94        <activity
+94-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:94:9-96:40
+95            android:name="com.encardio.er_ngrf.activity.GatewayInfoActivity"
+95-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:95:13-48
+96            android:exported="false" />
+96-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:96:13-37
+97        <activity
+97-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:97:9-99:40
+98            android:name="com.encardio.er_ngrf.activity.NodeInfoActivity"
+98-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:98:13-45
+99            android:exported="false" />
+99-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:99:13-37
+100
+101        <meta-data
+101-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:101:9-103:57
+102            android:name="preloaded_fonts"
+102-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:102:13-43
+103            android:resource="@array/preloaded_fonts" />
+103-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:103:13-54
+104
+105        <provider
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+106            android:name="androidx.startup.InitializationProvider"
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+107            android:authorities="com.encardio.er_ngrf.activity.androidx-startup"
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+108            android:exported="false" >
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+109            <meta-data
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+110                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+111                android:value="androidx.startup" />
+111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+112            <meta-data
+112-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\manishk\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+113                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+113-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\manishk\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+114                android:value="androidx.startup" />
+114-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\manishk\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+115        </provider>
+116
+117        <uses-library
+117-->[androidx.window:window:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\e75272f0fd83aabd0d26e22c1f051d6d\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+118            android:name="androidx.window.extensions"
+118-->[androidx.window:window:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\e75272f0fd83aabd0d26e22c1f051d6d\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+119            android:required="false" />
+119-->[androidx.window:window:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\e75272f0fd83aabd0d26e22c1f051d6d\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+120        <uses-library
+120-->[androidx.window:window:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\e75272f0fd83aabd0d26e22c1f051d6d\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+121            android:name="androidx.window.sidecar"
+121-->[androidx.window:window:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\e75272f0fd83aabd0d26e22c1f051d6d\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+122            android:required="false" />
+122-->[androidx.window:window:1.0.0] C:\Users\manishk\.gradle\caches\transforms-3\e75272f0fd83aabd0d26e22c1f051d6d\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+123    </application>
+124
+125</manifest>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version">V-0.0</string>
+    <string name="encardio_rite">Encardio-rite</string>
+    <string name="app_name">ER-NGRF</string>
+    <string name="dash">-----</string>
+
+    <string name="version_title">Version 0.0</string>
+    <string name="system_info">System Information</string>
+    <string name="quit">Resume scanning</string>
+    <string name="really_quit">Do you want to quit?</string>
+    <string name="shutdown">SHUTDOWN</string>
+    <string name="warning">WARNING</string>
+    <string name="scan_stop_msg">Please stop scan to perform this action.\nDo you Wish to stop scan?</string>
+    <string name="details_for_reset">Are you sure you want to reset datalogger?\nIt will erase all data from datalogger. Logger will be set to factory default.</string>
+    <string name="reset_datalogger">RESET DATALOGGER</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="fwver">Firmware Version</string>
+    <string name="fwrevdt">Firmware Rev. Date</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="bluetooth_device">Device Name</string>
+    <string name="bluetooth_address">Device MAC Address</string>
+    <string name="status">Status</string>
+    <string name="mobile_brand">Mobile Brand</string>
+    <string name="mobile_model">Mobile Model</string>
+    <string name="android_version">Android Version</string>
+    <string name="display_resolution">Display Resolution</string>
+    <string name="battype">Battery Type</string>
+    <string name="battv">Battery Voltage</string>
+    <string name="battery_charge">Battery Charge</string>
+    <string name="batt_temp">Battery Temp.</string>
+    <string name="imei_number1">SIM-1 IMEI Number </string>
+    <string name="sim_operator1">SIM-1 Network </string>
+    <string name="application_version">Application Ver</string>
+    <string name="bluetooth">Bluetooth Information   </string>
+    <string name="phone">Phone Information  </string>
+
+    <!-- BluetoothServices -->
+    <string name="not_connected">You are not connected to a device, Press Connection
+		button to connect!</string>
+    <string name="bt_not_enabled_leaving">Bluetooth is not enabled.
+	</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_connected_to">Connected</string>
+    <string name="title_not_connected">Not connected</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+    <!-- DeviceListActivity -->
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Select Node/Gateway</string>
+    <string name="model">Model</string>
+    <string name="alarms_amp_event_log"><![CDATA[Alarms & Event Log]]></string>
+
+    <string name="alarm_1_value">Alarm - 1 Value</string>
+    <string name="alarm_3_value">Alarm - 3 Value</string>
+    <string name="colon">:</string>
+    <string name="enable_event_log">Enable Event Log</string>
+
+    <string name="event_log_interval">Event Log Interval</string>
+
+    <string name="alarm_2_value">Alarm - 2 Value</string>
+    <string name="battery_information">Battery Information</string>
+    <string name="battery_type">Battery Type</string>
+    <string name="battery_voltage">Battery Voltage</string>
+    <string name="installation_date">Installation Date</string>
+    <string name="battery_health">Battery Health</string>
+    <string name="bluetooth_information">Bluetooth Information</string>
+    <string name="device_mac_addr">Device MAC Addr.</string>
+    <string name="sms_alert_contact_numbers">SMS Alert Contact Numbers</string>
+    <string name="contact_number_1">Contact Number 1</string>
+    <string name="contact_number_2">Contact Number 2</string>
+    <string name="contact_number_6">Contact Number 6</string>
+    <string name="send_test_sms">Send Test SMS</string>
+    <string name="contact_number_3">Contact Number 3</string>
+    <string name="contact_number_8">Contact Number 8</string>
+    <string name="contact_number_7">Contact Number 7</string>
+    <string name="contact_number_5">Contact Number 5</string>
+    <string name="contact_number_4">Contact Number 4</string>
+
+    <string name="csv_file_header_option">CSV File Header Option</string>
+    <string name="column_1">Column 1</string>
+    <string name="column_4">Column 4</string>
+
+    <string name="download_data">Download Data</string>
+    <string name="erase_memory">Erase Memory</string>
+    <string name="logger_memory_action">Logger Memory Action</string>
+    <string name="enable_header">Enable Header</string>
+    <string name="column_5">Column 5</string>
+    <string name="column_6">Column 6</string>
+    <string name="column_2">Column 2</string>
+    <string name="column_3">Column 3</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="hh">HH</string>
+
+    <string name="up_ss">up_ss</string>
+    <string name="up_mm">up_mm</string>
+    <string name="ss">SS</string>
+    <string name="up_hh">up_hh</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="mm">MM</string>
+    <string name="clock_icon">clock icon</string>
+
+    <string name="download">Download</string>
+    <string name="file_name">File Name :</string>
+    <string name="total_records_from_last_upload">Total Records Since Last Upload</string>
+
+    <string name="download_file_name">File Name</string>
+    <string name="total_records">Total Records</string>
+    <string name="upload_file">Upload File</string>
+    <string name="from_begining">Since Begining</string>
+    <string name="from_last_download">Since Last Download</string>
+    <string name="download_amp_save_file"><![CDATA[Download & Save File]]></string>
+    <string name="select_download_option">Select Download Option</string>
+    <string name="total_records_from_last_download">Total Records Since Last Download</string>
+    <string name="ftp_upload">FTP Upload</string>
+    <string name="password">Password</string>
+    <string name="url">URL</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="user_id">User ID</string>
+    <string name="port">Port</string>
+    <string name="remote_2_way_communication_settings">Remote 2-way Communication Settings</string>
+    <string name="data_range">Data Range</string>
+    <string name="select_y_axis_range">Select Y-Axis Range</string>
+    <string name="min">Min.</string>
+    <string name="from">From</string>
+    <string name="ok">OK</string>
+    <string name="max">Max.</string>
+    <string name="to">To</string>
+    <string name="phone_information">Phone Information</string>
+    <string name="logger_id">Logger ID</string>
+    <string name="samples_averaged">Samples Averaged</string>
+    <string name="longitude">Longitude</string>
+
+    <string name="direction">Direction</string>
+    <string name="logger_location">Logger Location</string>
+    <string name="top_elevation_m">Top Elevation (m)</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="degrees">Degrees</string>
+    <string name="minutes">Minutes</string>
+    <string name="logger_information">Logger Information</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string name="seconds">Seconds</string>
+
+    <string name="location">Location</string>
+    <string name="top_elevation">Top Elevation</string>
+    <string name="scan_start_time">Scan Start Time</string>
+    <string name="modem_imei">Modem IMEI</string>
+
+
+    <string name="operating_mode">Operating Mode</string>
+    <string name="enable_sms_alert">Enable SMS Alert</string>
+    <string name="apn">APN</string>
+    <string name="logger_mobile_no">Logger Mobile No.</string>
+    <string name="contact_list">Contact List</string>
+    <string name="modem_url">URL :</string>
+    <string name="edit">Edit</string>
+    <string name="upload_schedule">Upload Schedule</string>
+    <string name="auto_sync_rtc">Auto Sync RTC</string>
+
+    <string name="advanced_settings">Advanced Settings</string>
+
+    <string name="ftp_settings">FTP Settings</string>
+    <string name="monitor">Monitor</string>
+    <string name="parameter_unit">Parameter Unit</string>
+    <string name="enter_battery_installation_date">Battery Installation Date</string>
+    <string name="enter_reset_password">Enter reset password</string>
+    <string name="sampling_information">Sampling Information</string>
+
+    <string name="log_interval">Log Interval</string>
+    <string name="start_scan">Start Scan</string>
+
+    <string name="param_error_option">Param Error Option</string>
+
+    <string name="scan_status">Scan Status</string>
+
+
+    <string name="temp_error_code">Temp Error Code</string>
+    <string name="scan_off">Scan OFF</string>
+    <string name="logger_memory">Logger Memory</string>
+    <string name="alarm_amp_event_logs"><![CDATA[Alarm & Event Logs]]></string>
+    <string name="total_rec_ld">Total Rec LD</string>
+    <string name="total_rec_lu">Total Rec LU</string>
+    <string name="water_lvl_err_code">Param Error Code</string>
+    <string name="scan_interval">Scan Interval</string>
+    <string name="memory_full_action">Memory Full Action</string>
+
+    <string name="upload_time">Upload Time</string>
+    <string name="upload_interval">Upload Interval</string>
+
+    <string name="start_time">Start Time</string>
+    <string name="vw_sensor">VW Sensor</string>
+    <string name="sensor_model">Sensor Model</string>
+    <string name="no_of_steps">No. of Steps</string>
+    <string name="x_parameter">X Parameter</string>
+    <string name="sweep_time_ms">Sweep Time (ms)</string>
+    <string name="offset">Offset</string>
+    <string name="coefficient_a0">Coefficient A0</string>
+    <string name="end_freq_hz">End Freq (Hz)</string>
+    <string name="start_freq_hz">Start Freq (Hz)</string>
+    <string name="meas_range_m">Meas Range</string>
+    <string name="sensor_s_n">Sensor S.N.</string>
+    <string name="coefficient_a2">Coefficient A2</string>
+    <string name="update">Update</string>
+    <string name="xxxxx">XXXXX</string>
+    <string name="coefficient_a1">Coefficient A1</string>
+    <string name="escl_12vt">ESCL-12VT</string>
+    <string name="connection">Connection</string>
+
+    <string name="shutdown_datalogger">Shutdown Datalogger</string>
+    <string name="view_data">View Data</string>
+    <string name="connection_status_main">Connection Status</string>
+    <string name="scan_status_main">Scan Status</string>
+
+    <string name="scan_amp_format"><![CDATA[Scan & Format]]></string>
+    <string name="datalogger_id">Datalogger ID</string>
+    <string name="modem_configuration">Modem Configuration</string>
+
+    <string name="todo">TODO</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="monitor_parameter">Monitor Parameter</string>
+    <string name="system_configuration">System Configuration</string>
+    <string name="reset_settings">Reset Settings</string>
+    <string name="sensor_settings">Sensor Settings</string>
+    <string name="system_information">System Information</string>
+
+    <string name="sensor_information">Sensor Information</string>
+    <string name="web_site_url">Web Site URL</string>
+    <string name="datalogger_files_csv">Datalogger Files (*.CSV)</string>
+    <string name="reset_url">Reset URL</string>
+    <string name="upload">Upload</string>
+    <string name="date">Date</string>
+    <string name="parameter">Parameter</string>
+    <string name="date_time">Date/Time</string>
+    <string name="parameter_name">Parameter Name</string>
+    <string name="url_settings">URL Settings</string>
+
+    <string name="save">Save</string>
+    <string name="_999_999">-999.999</string>
+
+    <string name="frequency_hz">Frequency (Hz)</string>
+    <string name="parameter_unit_monitor">Parameter (Unit)</string>
+    <string name="temperature_unit_monitor">Temperature (Unit)</string>
+    <string name="bit_error_rate">Bit Error Rate : (--)</string>
+    <string name="signal_strength">Signal Strength : (--)</string>
+
+    <string name="cycles">Cycles</string>
+    <string name="modem_status">Modem Status</string>
+
+    <string name="decimal">Decimal</string>
+    <string name="_1230_00">1230.00</string>
+    <string name="noise_bar">Noise Bar</string>
+    <string name="adc_count">ADC Count</string>
+    <string name="_0_0">0.0</string>
+    <string name="time_dash">--:--:--</string>
+    <string name="logger_date_time">Logger Date/Time</string>
+    <string name="logger_time">Logger Time</string>
+    <string name="logger_date">Logger Date</string>
+    <string name="utc_time_offset">UTC Time Offset</string>
+    <string name="update_date_time">Update Date/Time</string>
+    <string name="sync_with_phone">Sync with Phone</string>
+    <string name="back">Back</string>
+    <string name="date_dash">--/--/----</string>
+    <string name="title_activity_near_by_devices_permission">NearByDevicesPermissionActivity
+    </string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
+

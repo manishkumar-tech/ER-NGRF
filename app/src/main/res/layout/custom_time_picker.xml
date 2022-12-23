@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/color_bg"
+    android:paddingBottom="4dp">
+
+    <RelativeLayout
+        android:id="@+id/first"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp">
+
+        <ImageView
+            android:id="@+id/clock"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_margin="2dp"
+            android:contentDescription="@string/clock_icon"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_watch" />
+
+        <TextView
+            android:id="@+id/actualtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_toEndOf="@+id/clock"
+            android:text="@string/_00_00_00"
+            android:textColor="@color/heading_text_color"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/second"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/first"
+        android:layout_margin="2dp"
+        android:paddingBottom="5dp">
+
+        <ImageView
+            android:id="@+id/plus1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/bg_button"
+            android:contentDescription="@string/up_hh"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_arrow_up" />
+
+        <ImageView
+            android:id="@+id/plus2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="12dp"
+            android:layout_toEndOf="@+id/plus1"
+            android:background="@drawable/bg_button"
+            android:contentDescription="@string/up_mm"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_arrow_up" />
+
+        <ImageView
+            android:id="@+id/plus3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="12dp"
+            android:layout_toEndOf="@+id/plus2"
+            android:background="@drawable/bg_button"
+            android:contentDescription="@string/up_ss"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_arrow_up" />
+
+        <TextView
+            android:id="@+id/hours"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/plus1"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="12dp"
+            android:gravity="center"
+
+            android:text="@string/hh"
+            android:textColor="@color/label_text_color"
+
+
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/minutes"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/plus2"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="12dp"
+            android:layout_toEndOf="@+id/hours"
+            android:gravity="center"
+            android:text="@string/mm"
+            android:textColor="@color/label_text_color"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/seconds"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/plus3"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_toEndOf="@+id/minutes"
+            android:gravity="center"
+            android:text="@string/ss"
+            android:textColor="@color/label_text_color"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/minus1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/hours"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/bg_button"
+            android:contentDescription="@string/todo"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_arrow_down" />
+
+        <ImageView
+            android:id="@+id/minus2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/minutes"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="12dp"
+            android:layout_toEndOf="@+id/minus1"
+            android:background="@drawable/bg_button"
+            android:contentDescription="@string/todo"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_arrow_down" />
+
+        <ImageView
+            android:id="@+id/minus3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/seconds"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="12dp"
+            android:layout_toEndOf="@+id/minus2"
+            android:background="@drawable/bg_button"
+            android:contentDescription="@string/todo"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_arrow_down" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/third"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/second"
+        android:layout_margin="2dp"
+
+
+        >
+
+        <Button
+            android:id="@+id/set"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:text="@string/set"
+            android:textAllCaps="false"
+            android:textColor="@color/button_text_color"
+            android:textSize="14sp"
+
+            />
+
+        <Button
+            android:id="@+id/cancel"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:layout_toEndOf="@+id/set"
+            android:background="@drawable/bg_button"
+            android:text="@string/cancel"
+            android:textAllCaps="false"
+            android:textColor="@color/button_text_color"
+            android:textSize="14sp" />
+    </RelativeLayout>
+</RelativeLayout>

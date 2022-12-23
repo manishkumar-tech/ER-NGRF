@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/amiko</item>
+        <item>@font/arbutus</item>
+        <item>@font/archivo_black</item>
+        <item>@font/armata</item>
+        <item>@font/autour_one</item>
+        <item>@font/averia_serif_libre_light</item>
+        <item>@font/brawler</item>
+        <item>@font/bungee</item>
+        <item>@font/cantata_one</item>
+        <item>@font/capriola</item>
+        <item>@font/carme</item>
+        <item>@font/cousine</item>
+        <item>@font/droid_serif_bold_italic</item>
+        <item>@font/frank_ruhl_libre_medium</item>
+        <item>@font/hanalei</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/headland_one</item>
+        <item>@font/hind_light</item>
+        <item>@font/jacques_francois_shadow</item>
+        <item>@font/krona_one</item>
+        <item>@font/new_rocker</item>
+        <item>@font/stalinist_one</item>
+        <item>@font/trade_winds</item>
+        <item>@font/trocchi</item>
+        <item>@font/ubuntu_light</item>
+        <item>@font/unlock</item>
+    </array>
+</resources>
