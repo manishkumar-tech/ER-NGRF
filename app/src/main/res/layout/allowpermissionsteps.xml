@@ -31,6 +31,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
+            android:visibility="gone"
             >
 
             <TextView
@@ -46,6 +47,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:visibility="gone"
            >
 
             <TextView
@@ -61,12 +63,14 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:layout_marginTop="10dp"
            >
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="3. Tap the app you want to change. If you can't find it, tap See all apps. Then, choose your app."
+                android:text="1. Click on OK button."
                 android:textSize="15sp"
                 android:fontFamily="@font/kanit_regular"
                 ></TextView>
@@ -82,7 +86,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="4. Tap Permissions."
+                android:text="2. Tap Permissions."
                 android:textSize="15sp"
                 android:fontFamily="@font/kanit_regular"></TextView>
 
@@ -112,7 +116,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="5. To change a permission setting, tap it, then choose Allow."
+                android:text="3. To change a permission setting, tap it, then choose Allow."
                 android:textSize="15sp"
                 android:fontFamily="@font/kanit_regular"></TextView>
 
@@ -132,6 +136,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/ok"
                 android:textSize="15sp"
+                android:textColor="@color/white"
                 android:fontFamily="@font/kanit_regular"
                 android:background="@drawable/custom_cylin_button"
                 android:id="@+id/ok"></Button>

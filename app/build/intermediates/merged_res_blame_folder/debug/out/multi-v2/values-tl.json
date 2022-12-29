@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.encardio.er_ngrf.activity.app-mergeDebugResources-40:/values-tl/values-tl.xml",
+            "outputFile": "com.encardio.er_ngrf.activity.app-mergeDebugResources-41:/values-tl/values-tl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\manishk\\.gradle\\caches\\transforms-3\\88442b52181f3fa4317809c14ce9014b\\transformed\\navigation-ui-2.5.3\\res\\values-tl\\values-tl.xml",

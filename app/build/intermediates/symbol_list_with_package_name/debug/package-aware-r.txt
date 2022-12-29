@@ -1285,6 +1285,8 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color bg_color
+color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1302,6 +1304,8 @@ color checkbox_themeable_attribute_color
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
+color color_app_dark
+color color_app_lessdark
 color color_bg
 color design_bottom_navigation_shadow_color
 color design_box_stroke_color
@@ -1857,6 +1861,7 @@ color text_color
 color tooltip_background_dark
 color tooltip_background_light
 color value_text_color
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -2538,6 +2543,7 @@ drawable bg_main
 drawable bg_menu_button
 drawable bg_text_view
 drawable bluetooth_icon
+drawable bluetooth_icon_s
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2552,6 +2558,7 @@ drawable checkbox_off_background
 drawable checkbox_off_background_focus_yellow
 drawable checkbox_on_background
 drawable checkbox_on_background_focus_yellow
+drawable checkcircle
 drawable checked_checkbox
 drawable checked_checkbox_icon
 drawable circle_green
@@ -2560,7 +2567,11 @@ drawable circle_transparent
 drawable circle_yellow
 drawable color_selector
 drawable company_logo
+drawable company_logo_e
+drawable crosscircle
 drawable custom_cylin_button
+drawable customsizebleicon
+drawable customsizebleiconhdpi
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2592,6 +2603,7 @@ drawable ic_baseline_3d_rotation_24
 drawable ic_battery
 drawable ic_battery_white
 drawable ic_bg
+drawable ic_bgtopheader
 drawable ic_calender
 drawable ic_clock
 drawable ic_clock_black_24dp
@@ -2635,6 +2647,7 @@ drawable ic_watch
 drawable icon
 drawable icon_name
 drawable info
+drawable key_folder
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2682,6 +2695,7 @@ drawable progress_bar_theme
 drawable red_arrow
 drawable refresh
 drawable refresh3
+drawable selection_band_overlay
 drawable shutdown
 drawable spinner_bg
 drawable start
@@ -2827,6 +2841,7 @@ id animateToStart
 id animation_view
 id antiClockwise
 id anticipate
+id appName
 id arc
 id asConfigured
 id async
@@ -2896,6 +2911,7 @@ id clock
 id clockwise
 id closest
 id collapseActionView
+id company_logo
 id compress
 id confirm_button
 id connecting
@@ -3554,6 +3570,7 @@ raw bluetooth_connecting
 raw frequency_1
 raw information_2
 raw setup
+raw signal1
 raw wireless
 string _00_00_00
 string _0_0

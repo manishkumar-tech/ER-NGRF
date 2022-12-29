@@ -66,8 +66,14 @@ public class Variable {
     public static float noise_bar_limit_temperature_reading = 10.0f;
 
     public static boolean isSMS_AlertEnable = false;
-    public static int flagBlePr=0;
+
     public static BluetoothService.AcceptThread mAcceptThread;
     public static BluetoothService.ConnectThread mConnectThread;
     public static BluetoothService.ConnectedThread mConnectedThread;
+
+    public static int flagBlePr=0;
+    public static int flagStoragePr=0;
+    public static int flagLocationPr=0;
+    public static int flagPhonePr=0;
+    public static int flagSMSPr=0;
 }

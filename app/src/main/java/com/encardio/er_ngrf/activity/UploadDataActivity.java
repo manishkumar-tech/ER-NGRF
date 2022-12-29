@@ -6,6 +6,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
+import android.os.Looper;
+import android.util.Log;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -14,8 +16,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.encardio.er_ngrf.bluetooth.Communication_Tool;
 import com.encardio.er_ngrf.tool.Constant;
 import com.encardio.er_ngrf.tool.Tool;
+import com.encardio.er_ngrf.tool.Variable;
 
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPReply;
@@ -51,11 +55,13 @@ public class UploadDataActivity extends AppCompatActivity implements Runnable {
     private boolean wrongCredentials;
     private boolean isAllfilesUploadandArchive2;
     private RecyclerView rv_upload_files;
+    Communication_Tool communication_tool;
+
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_upload_data);
-
+         communication_tool = new Communication_Tool();
         try {
             SharedPreferences prefUrlSettings = UploadDataActivity.this.getSharedPreferences("URL_SETTINGS", 0);
 
@@ -85,7 +91,23 @@ public class UploadDataActivity extends AppCompatActivity implements Runnable {
             adapter = new UploadFilesAdapter(list);
             rv_upload_files.setAdapter(adapter);
 
+
+//            if(communication_tool.wakeUpDL()){
+//                Variable.totalNumberOfRecord = Tool.removeDQ(communication_tool
+//                        .sendCMDgetRLY("NOOFREC,\"?\""));
+//                Log.e("NoofRec",Variable.totalNumberOfRecord);
+//            }
+
+
             getFilesToUpload();
+
+
+
+
+
+
+
+
 
         } catch (Exception e) {
             e.printStackTrace();

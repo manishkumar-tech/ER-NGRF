@@ -5,6 +5,8 @@ import static android.Manifest.permission.ACCESS_FINE_LOCATION;
 import static android.Manifest.permission.ACCESS_NETWORK_STATE;
 import static android.Manifest.permission.BLUETOOTH;
 import static android.Manifest.permission.BLUETOOTH_ADMIN;
+import static android.Manifest.permission.BLUETOOTH_CONNECT;
+import static android.Manifest.permission.BLUETOOTH_SCAN;
 import static android.Manifest.permission.INTERNET;
 import static android.Manifest.permission.READ_EXTERNAL_STORAGE;
 import static android.Manifest.permission.READ_PHONE_STATE;
@@ -21,6 +23,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
@@ -42,6 +45,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.encardio.er_ngrf.bluetooth.Communication_Tool;
+import com.encardio.er_ngrf.tool.Variable;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
 
 import java.util.ArrayList;
@@ -49,6 +53,11 @@ import java.util.Arrays;
 import java.util.List;
 
 public class AllPermissionsActivity extends AppCompatActivity {
+
+
+    static {
+        AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);
+    }
 
     Button ok;
 
@@ -63,9 +72,7 @@ public class AllPermissionsActivity extends AppCompatActivity {
 
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
 
-                            requestBlePermissions(AllPermissionsActivity.this, BLE_PERMISSION_REQUEST_CODE);
-                        }else{
-                            requestPermission();
+                            requestBlePermission();
                         }
 
                           isStoragePermissionGranted = true;
@@ -92,15 +99,11 @@ public class AllPermissionsActivity extends AppCompatActivity {
 
 
     private static final String[] ANDROID_12_BLE_PERMISSIONS = new String[]{
-            Manifest.permission.BLUETOOTH_SCAN,
-            Manifest.permission.BLUETOOTH_CONNECT
+            BLUETOOTH_SCAN,
+            BLUETOOTH_CONNECT
     };
 
-    public static void requestBlePermissions(Activity activity, int requestCode) {
 
-            ActivityCompat.requestPermissions(activity, ANDROID_12_BLE_PERMISSIONS, requestCode);
-
-    }
 
 
 
@@ -108,6 +111,10 @@ public class AllPermissionsActivity extends AppCompatActivity {
     ImageView cbsp,cbbp, cblp, cbpp, cbsmsp;
     private int PERMISSION_REQUEST_CODE = 200;
     private int BLE_PERMISSION_REQUEST_CODE = 101;
+    private int STORAGE_PERMISSION_REQUEST_CODE = 111;
+    private int LOCATION_PERMISSION_REQUEST_CODE = 222;
+    private int PHONE_PERMISSION_REQUEST_CODE = 333;
+    private int SMS_PERMISSION_REQUEST_CODE = 444;
 
     boolean isStoragePermissionGranted,isBluetoothPermissionGranted,isLocationPermissionGranted, isPhonePermissionGranted, isSMSPermissionGranted;
     private BluetoothAdapter mBtAdapter;
@@ -132,34 +139,30 @@ public class AllPermissionsActivity extends AppCompatActivity {
 
         checkAllPermissionGranted(null);
 
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
-            if (!Environment.isExternalStorageManager()) {
-                try {
-                    Intent intent = new Intent(Settings.ACTION_MANAGE_APP_ALL_FILES_ACCESS_PERMISSION,
-                            Uri.parse("package:" + "com.encardio.er_ngrf.activity"));
-                    //  startActivityForResult(intent, APP_STORAGE_ACCESS_REQUEST_CODE);
-                    activityResultLaunch.launch(intent);
+        //30 = 11
 
 
-                } catch (Exception e) {
-
-                    Intent intent = new Intent(Settings.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION);
-                    //    startActivityForResult(intent, APP_STORAGE_ACCESS_REQUEST_CODE);
-                    activityResultLaunch.launch(intent);
 
 
-                }
-            }
-        }else{
-            requestPermission();
+        if(Variable.flagStoragePr<=2){
+            requestStoragePermission();
         }
 
-
-
-
-
-
-
+//        if(Variable.flagBlePr<=2){
+//            requestBlePermission();
+//        }
+//
+//        if(Variable.flagLocationPr<=2){
+//            requestLocationPermission();
+//        }
+//
+//        if(Variable.flagPhonePr<=2){
+//            requestPhonePermission();
+//        }
+//
+//        if(Variable.flagSMSPr<=2){
+//            requestSMSPermission();
+//        }
 //
 //        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
 //
@@ -301,108 +304,218 @@ public class AllPermissionsActivity extends AppCompatActivity {
     }
 
     private void requestPermission() {
-        ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE, INTERNET,  BLUETOOTH_ADMIN, BLUETOOTH, ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION, READ_PHONE_STATE,SEND_SMS,
-                WAKE_LOCK, VIBRATE, ACCESS_NETWORK_STATE}, PERMISSION_REQUEST_CODE);
+        ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE, INTERNET,  BLUETOOTH_ADMIN, BLUETOOTH, ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION, READ_PHONE_STATE,SEND_SMS}, PERMISSION_REQUEST_CODE);
     }
 
+
+
+
+
+    public void requestStoragePermission(){
+
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
+
+            if (!Environment.isExternalStorageManager()) {
+
+                try {
+                    Intent intent = new Intent(Settings.ACTION_MANAGE_APP_ALL_FILES_ACCESS_PERMISSION,
+                            Uri.parse("package:" + "com.encardio.er_ngrf.activity"));
+                    //  startActivityForResult(intent, APP_STORAGE_ACCESS_REQUEST_CODE);
+                    activityResultLaunch.launch(intent);
+
+
+                } catch (Exception e) {
+
+                    Intent intent = new Intent(Settings.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION);
+                    //    startActivityForResult(intent, APP_STORAGE_ACCESS_REQUEST_CODE);
+                    activityResultLaunch.launch(intent);
+
+
+                }
+            }
+
+        }else{
+            ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE},STORAGE_PERMISSION_REQUEST_CODE);
+
+        }
+    }
+
+    public void requestBlePermission() {
+
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+            ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{BLUETOOTH_SCAN, BLUETOOTH_CONNECT}, BLE_PERMISSION_REQUEST_CODE);
+        }
+
+    }
+
+    public void requestLocationPermission(){
+
+        ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION},LOCATION_PERMISSION_REQUEST_CODE);
+
+    }
+
+    public void requestPhonePermission(){
+
+        ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{READ_PHONE_STATE},PHONE_PERMISSION_REQUEST_CODE);
+
+    }
+
+
+    public void requestSMSPermission(){
+
+        ActivityCompat.requestPermissions(AllPermissionsActivity.this, new String[]{SEND_SMS},SMS_PERMISSION_REQUEST_CODE);
+
+    }
 
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
-//
-//        Log.e("permisssion", Arrays.toString(permissions));
-//        Log.e("permisssiongrantResults", Arrays.toString(grantResults));
-//
-//
-//        if(requestCode == PERMISSION_REQUEST_CODE){
-//
-//
-//
-//        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.R) {
-//
-//            if(grantResults[0] == 0 && grantResults[1] == 0){
-//
-//                isStoragePermissionGranted = true;
-//
-//                cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
-//
-//            }else{
-//                isStoragePermissionGranted = false;
-//
-//                cbsp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
-//            }
-//        }
-//
-//
-//        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.S){
-//
-//            if(grantResults[3] == 0 && grantResults[4] == 0){
-//
-//                isBluetoothPermissionGranted = true;
-//                cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
-//            }else{
-//                isBluetoothPermissionGranted = false;
-//                cbbp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
-//            }
-//
-//        }
-//
-//
-//
-//            if(grantResults[5] == 0 && grantResults[6] == 0){
-//
-//                isLocationPermissionGranted = true;
-//                cblp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
-//            }else{
-//
-//                isLocationPermissionGranted = false;
-//                cblp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
-//
-//            }
-//
-//
-//        if(grantResults[7] == 0){
-//
-//            isPhonePermissionGranted = true;
-//            cbpp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
-//        }else {
-//            isPhonePermissionGranted = false;
-//            cbpp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
-//        }
-//
-//
-//
-//        if(grantResults[8] == 0){
-//
-//            isSMSPermissionGranted = true;
-//            cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
-//        }else{
-//
-//            isSMSPermissionGranted = false;
-//            cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
-//        }
-//
-//        }
-//
-//
-        if(requestCode == BLE_PERMISSION_REQUEST_CODE){
+
+        Log.e("permisssion", Arrays.toString(permissions));
+        Log.e("permisssiongrantResults", Arrays.toString(grantResults));
+
+
+        if(requestCode == STORAGE_PERMISSION_REQUEST_CODE) {
 
             if(grantResults[0] == 0 && grantResults[1] == 0){
 
-                isBluetoothPermissionGranted = true;
-                cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
-                requestPermission();
-
+                requestLocationPermission();
+                cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
             }else{
 
-                isBluetoothPermissionGranted = false;
-                cbbp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
-                requestPermission();
+                cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
+                Variable.flagStoragePr++;
+
+                if(Variable.flagStoragePr <= 2){
+                    requestStoragePermission();
+                }else{
+                    requestLocationPermission();
+                }
+
 
             }
 
         }
 
+
+        if(requestCode == BLE_PERMISSION_REQUEST_CODE){
+
+            if(grantResults[0] == 0 && grantResults[1] == 0){
+
+                isBluetoothPermissionGranted = true;
+                cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
+                //requestPermission();
+                requestLocationPermission();
+
+            }else{
+
+                isBluetoothPermissionGranted = false;
+                cbbp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
+
+                Variable.flagBlePr++;
+
+                if(Variable.flagBlePr <= 2){
+                    requestBlePermission();
+                }else{
+                    requestLocationPermission();
+                }
+
+
+
+
+            }
+
+        }
+
+
+
+        if(requestCode == LOCATION_PERMISSION_REQUEST_CODE){
+
+            if(grantResults[0] == 0 && grantResults[1] == 0){
+
+
+                cblp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
+                //requestPermission();
+                requestPhonePermission();
+
+            }else{
+
+
+                cblp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
+
+                //requestBlePermissions(AllPermissionsActivity.this,BLE_PERMISSION_REQUEST_CODE);
+
+
+                Variable.flagLocationPr++;
+
+                if(Variable.flagLocationPr <= 2){
+                    requestLocationPermission();
+                }else{
+                    requestPhonePermission();
+                }
+
+            }
+
+        }
+
+
+        if(requestCode == PHONE_PERMISSION_REQUEST_CODE){
+
+            if(grantResults[0] == 0){
+
+
+                cbpp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
+                //requestPermission();
+                requestSMSPermission();
+
+            }else{
+
+
+                cbpp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
+
+                //requestBlePermissions(AllPermissionsActivity.this,BLE_PERMISSION_REQUEST_CODE);
+
+                Variable.flagPhonePr++;
+
+
+                if(Variable.flagPhonePr <= 2){
+                    requestPhonePermission();
+                }else{
+                    requestSMSPermission();
+                }
+
+            }
+
+        }
+
+
+        if(requestCode == SMS_PERMISSION_REQUEST_CODE){
+
+            if(grantResults[0] == 0){
+
+
+                cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
+                //requestPermission();
+
+
+            }else{
+
+
+                cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
+
+                //requestBlePermissions(AllPermissionsActivity.this,BLE_PERMISSION_REQUEST_CODE);
+
+                Variable.flagSMSPr++;
+
+
+                if(Variable.flagSMSPr <= 2){
+                    requestSMSPermission();
+                }
+
+            }
+
+        }
 
     }
 
@@ -414,6 +527,7 @@ public class AllPermissionsActivity extends AppCompatActivity {
         startActivity(intent);
        // Toast.makeText(getApplicationContext(), "Please allow all permissions from setting.", Toast.LENGTH_SHORT).show();
     }
+
 
     @Override
     protected void onResume() {
@@ -489,47 +603,47 @@ public class AllPermissionsActivity extends AppCompatActivity {
 
            if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
                if(grantedPermissions.contains("android.permission.BLUETOOTH_CONNECT") && grantedPermissions.contains("android.permission.BLUETOOTH_SCAN")){
-                   cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+                   cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
                }else{
-                   cbbp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
+                   cbbp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
                }
            }else{
-               cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+               cbbp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
            }
 
 
            if(Build.VERSION.SDK_INT < Build.VERSION_CODES.R){
                if(grantedPermissions.contains("android.permission.WRITE_EXTERNAL_STORAGE") && grantedPermissions.contains("android.permission.READ_EXTERNAL_STORAGE")){
-                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
                }else{
-                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
+                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
                }
            }else{
                if (Environment.isExternalStorageManager()) {
-                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
                }else{
-                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
+                   cbsp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
                }
            }
 
 
         if(grantedPermissions.contains("android.permission.ACCESS_FINE_LOCATION") && grantedPermissions.contains("android.permission.ACCESS_COARSE_LOCATION")){
-            cblp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+            cblp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
         }else{
-            cblp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
+            cblp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
         }
 
         if(grantedPermissions.contains("android.permission.READ_PHONE_STATE")){
-            cbpp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+            cbpp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
         }else{
-            cbpp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
+            cbpp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
         }
 
 
         if(grantedPermissions.contains("android.permission.SEND_SMS")){
-            cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.checked_checkbox));
+            cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.checkcircle));
         }else{
-            cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.unchecked_checkbox));
+            cbsmsp.setImageDrawable(getResources().getDrawable(R.drawable.crosscircle));
         }
 
     }

@@ -5,6 +5,11 @@
     <color name="colorAccent">#D81B60</color>
     <color name="text_color">#FFFFFF</color>
     <color name="color_bg">#FFFFFF</color>
+    <color name="color_app_dark">#24187E</color>
+    <color name="color_app_lessdark">#3710D1</color>
+    <color name="white">#fff</color>
+    <color name="bg_color">#90CAF9</color>
+    <color name="black">#000000</color>
 
 
     <color name="heading_text_color">#00ff00</color>
@@ -24,4 +29,6 @@
     <color name="LAY_HIGHTLIGHT_COL_2">#235678
     </color>    <!-- for noice bar background and highlight test  -->
     <!-- for noice bar background and highlight test  -->
+
+
 </resources>  

@@ -61,7 +61,7 @@
 27-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:24:9-66
 28
 29    <application
-29-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:27:5-104:19
+29-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:27:5-106:19
 30        android:allowBackup="true"
 30-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:28:9-35
 31        android:allowClearUserData="false"
@@ -132,72 +132,72 @@
 69            android:screenOrientation="landscape" />
 69-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:63:13-50
 70        <activity
-70-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:65:9-69:56
+70-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:65:9-69:15
 71            android:name="com.encardio.er_ngrf.activity.DeviceListActivity"
 71-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:66:13-47
 72            android:screenOrientation="unspecified" />
 72-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:67:13-52
 73        <activity
-73-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:70:9-73:56
+73-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:71:9-74:14
 74            android:name="com.encardio.er_ngrf.activity.HomeActivity"
-74-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:71:13-41
+74-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:72:13-41
 75            android:screenOrientation="portrait" />
-75-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:72:13-49
+75-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:73:13-49
 76        <activity
-76-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:74:9-77:56
+76-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:76:9-79:56
 77            android:name="com.encardio.er_ngrf.activity.UploadDataActivity"
-77-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:75:13-47
+77-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:77:13-47
 78            android:screenOrientation="portrait" />
-78-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:76:13-49
+78-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:78:13-49
 79        <activity
-79-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:78:9-81:56
+79-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:80:9-83:56
 80            android:name="com.encardio.er_ngrf.activity.ViewDataActivity"
-80-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:79:13-45
+80-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:81:13-45
 81            android:screenOrientation="portrait" />
-81-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:80:13-49
+81-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:82:13-49
 82        <activity
-82-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:82:9-84:40
+82-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:84:9-86:40
 83            android:name="com.encardio.er_ngrf.activity.GatewayConfigActivity"
-83-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:83:13-50
+83-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:85:13-50
 84            android:exported="false" />
-84-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:84:13-37
+84-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:86:13-37
 85        <activity
-85-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:85:9-87:40
+85-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:87:9-89:40
 86            android:name="com.encardio.er_ngrf.activity.NodeConfigActivity"
-86-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:86:13-47
+86-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:88:13-47
 87            android:exported="false" />
-87-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:87:13-37
+87-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:89:13-37
 88        <activity
-88-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:88:9-90:40
+88-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:90:9-92:40
 89            android:name="com.encardio.er_ngrf.activity.GatewayWizardActivity"
-89-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:89:13-50
+89-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:91:13-50
 90            android:exported="false" />
-90-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:90:13-37
+90-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:92:13-37
 91        <activity
-91-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:91:9-93:40
+91-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:93:9-95:40
 92            android:name="com.encardio.er_ngrf.activity.NodeWizardActivity"
-92-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:92:13-47
+92-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:94:13-47
 93            android:exported="false" />
-93-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:93:13-37
+93-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:95:13-37
 94        <activity
-94-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:94:9-96:40
+94-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:96:9-98:40
 95            android:name="com.encardio.er_ngrf.activity.GatewayInfoActivity"
-95-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:95:13-48
+95-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:97:13-48
 96            android:exported="false" />
-96-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:96:13-37
+96-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:98:13-37
 97        <activity
-97-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:97:9-99:40
+97-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:99:9-101:40
 98            android:name="com.encardio.er_ngrf.activity.NodeInfoActivity"
-98-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:98:13-45
+98-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:100:13-45
 99            android:exported="false" />
-99-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:99:13-37
+99-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:101:13-37
 100
 101        <meta-data
-101-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:101:9-103:57
+101-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:103:9-105:57
 102            android:name="preloaded_fonts"
-102-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:102:13-43
+102-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:104:13-43
 103            android:resource="@array/preloaded_fonts" />
-103-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:103:13-54
+103-->E:\Manish\WorkSpace\ER-NGRF\app\src\main\AndroidManifest.xml:105:13-54
 104
 105        <provider
 105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\manishk\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

@@ -3,6 +3,8 @@ package com.encardio.er_ngrf.bluetooth;
 import static com.encardio.er_ngrf.tool.Variable.mAcceptThread;
 import static com.encardio.er_ngrf.tool.Variable.mConnectedThread;
 import static com.encardio.er_ngrf.tool.Variable.mConnectThread;
+
+import android.Manifest;
 import android.app.Service;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
@@ -10,6 +12,8 @@ import android.bluetooth.BluetoothServerSocket;
 import android.bluetooth.BluetoothSocket;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
@@ -17,6 +21,8 @@ import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 import android.widget.Toast;
+
+import androidx.core.app.ActivityCompat;
 
 import com.encardio.er_ngrf.tool.Variable;
 
@@ -45,7 +51,7 @@ public class BluetoothService extends Service {
     public BluetoothService(Context context, Handler handler
     ) {
         mAdapter = BluetoothAdapter.getDefaultAdapter();
-        mState = STATE_NONE;
+        //mState = STATE_NONE;
         mHandler = handler;
         this.context = context;
     }
@@ -130,6 +136,19 @@ public class BluetoothService extends Service {
         // Start the thread to manage the connection and perform transmissions
         mConnectedThread = new ConnectedThread(socket);
         mConnectedThread.start();
+
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+            if (ActivityCompat.checkSelfPermission(context, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                // TODO: Consider calling
+                //    ActivityCompat#requestPermissions
+                // here to request the missing permissions, and then overriding
+                //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                //                                          int[] grantResults)
+                // to handle the case where the user grants the permission. See the documentation
+                // for ActivityCompat#requestPermissions for more details.
+                return;
+            }
+        }
         // Send the name of the connected device back to the UI Activity
         Message msg = mHandler.obtainMessage(BluetoothAdpt.MESSAGE_DEVICE_NAME);
         Bundle bundle = new Bundle();
@@ -228,12 +247,28 @@ public class BluetoothService extends Service {
         public AcceptThread() {
             BluetoothServerSocket tmp = null;
             // Create a new listening server socket
+
+
             try {
+                if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                    if (ActivityCompat.checkSelfPermission(context, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                        // TODO: Consider calling
+                        //    ActivityCompat#requestPermissions
+                        // here to request the missing permissions, and then overriding
+                        //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                        //                                          int[] grantResults)
+                        // to handle the case where the user grants the permission. See the documentation
+                        // for ActivityCompat#requestPermissions for more details.
+
+                    }
+                }
                 tmp = mAdapter.listenUsingRfcommWithServiceRecord(NAME, MY_UUID);
             } catch (IOException e) {
                 e.printStackTrace();
             }
             mmServerSocket = tmp;
+
+
         }
 
 
@@ -308,6 +343,19 @@ public class BluetoothService extends Service {
             BluetoothSocket tmp = null;
 
             try {
+
+                if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                    if (ActivityCompat.checkSelfPermission(context, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                        // TODO: Consider calling
+                        //    ActivityCompat#requestPermissions
+                        // here to request the missing permissions, and then overriding
+                        //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                        //                                          int[] grantResults)
+                        // to handle the case where the user grants the permission. See the documentation
+                        // for ActivityCompat#requestPermissions for more details.
+
+                    }
+                }
                 tmp = device.createRfcommSocketToServiceRecord(MY_UUID);
             } catch (IOException e) {
                 e.printStackTrace();
@@ -320,6 +368,18 @@ public class BluetoothService extends Service {
 
             setName("ConnectThread");
 
+            if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                if (ActivityCompat.checkSelfPermission(context, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                    // TODO: Consider calling
+                    //    ActivityCompat#requestPermissions
+                    // here to request the missing permissions, and then overriding
+                    //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                    //                                          int[] grantResults)
+                    // to handle the case where the user grants the permission. See the documentation
+                    // for ActivityCompat#requestPermissions for more details.
+                    return;
+                }
+            }
             mAdapter.cancelDiscovery();
 
             try {
@@ -410,6 +470,14 @@ public class BluetoothService extends Service {
                     isCompleteMsgRcvd = replyMsgBuffer.toString().contains(
                             Communication_Tool.checkEndChar);
                     if (isCompleteMsgRcvd) {
+
+//                        Message msg = mHandler.obtainMessage(101);
+//                        Bundle bundle = new Bundle();
+//                        bundle.putString("test", "test");
+//                        msg.setData(bundle);
+//                        mHandler.sendMessage(msg);
+
+
                         len = -1;
                         String tempReply;
                         tempReply = replyMsgBuffer

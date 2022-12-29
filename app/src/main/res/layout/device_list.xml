@@ -14,7 +14,7 @@
             android:id="@+id/title_paired_devices"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#2C4DEC"
+            android:background="@color/color_app_lessdark"
             android:padding="5dp"
             android:text="@string/title_paired_devices"
             android:textColor="@color/heading_text_color"
@@ -31,7 +31,7 @@
     <ListView
         android:id="@+id/paired_devices"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:stackFromBottom="false"
         android:divider="@null"
         android:dividerHeight="5dp"

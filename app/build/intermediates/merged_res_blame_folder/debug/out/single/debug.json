@@ -1,738 +1,1990 @@
 [
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checkbox.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checkbox.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_g3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\g3.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/anim_top_to_bottom.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/anim/top_to_bottom.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_setup.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\setup.json"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_jacques_francois_shadow.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/jacques_francois_shadow.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_edit_text_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\edit_text_bg.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bg_button.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bg_button.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_quit.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_quit.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/raw_wireless.json.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/raw/wireless.json"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_progress_bar_theme.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\progress_bar_theme.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_quit.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_quit.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_headland_one.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\headland_one.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_custom_time_picker.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/custom_time_picker.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_setup_wizard.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_setup_wizard.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_fragment_first.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/fragment_first.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_circle_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\circle_yellow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_medium.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_medium.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_crosscircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\crosscircle.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_allfilesicon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/allfilesicon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_circle_red.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\circle_red.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_quit.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_quit.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_wave.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/wave.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_view_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_view_data.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_monitor_parameter.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_monitor_parameter.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_shutdown.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\shutdown.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_circle_green.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/circle_green.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_graph.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_graph.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_battery_white.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_battery_white.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_semibold.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_semibold.ttf"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_circle_yellow.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/circle_yellow.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_bluetooth_icon_s.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\bluetooth_icon_s.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_signal_0.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_signal_0.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_share.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_fragment_second.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/fragment_second.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_battery_white.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_battery_white.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_circle_transparent.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/circle_transparent.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_connection.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_connection.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_armata.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/armata.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_upload_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_upload_data.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_logger.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_logger.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_customsizebleicon.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\customsizebleicon.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error_3.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error_3.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_signal_2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_signal_2.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_device_list.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/device_list.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_checkcircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\checkcircle.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_refresh3.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/refresh3.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_graph.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_graph.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_shutdown.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/shutdown.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_view_data_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\view_data_bg.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_scan_and_format.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_scan_and_format.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_arrow_right.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_unchecked_checkbox.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/unchecked_checkbox.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_setup_wizard.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_setup_wizard.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_clock.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_clock.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_clock.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_view_data.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_view_data.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\circle_green.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_arbutus.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/arbutus.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-hdpi_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-hdpi\\main.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_spinner_drop_down_selected.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/spinner_drop_down_selected.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_arrow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_extrabolditalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_extrabolditalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checkbox.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checkbox.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_arrow_down.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_arrow_down.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_upload_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_upload_data.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_extralightitalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_extralightitalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_empty_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\empty_data.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_headland_one.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/headland_one.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_trocchi.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\trocchi.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_filesicon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/filesicon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_modem_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_modem_configuration.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_gateway_wizard.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_gateway_wizard.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_scan_and_format.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_scan_and_format.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error_2.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error_2.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_system_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_system_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_calender.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_calender.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_send.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_g0.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/g0.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checkbox_off_background_focus_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checkbox_off_background_focus_yellow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_node_info.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_node_info.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checked_checkbox_icon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checked_checkbox_icon.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_signal_1.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_signal_1.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_sample.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_sample.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/raw_information_2.json.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/raw/information_2.json"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_monitor_parameter.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_monitor_parameter.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_watch.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_watch.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_gateway_wizard.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_gateway_wizard.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checked_checkbox.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checked_checkbox.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_clock.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bg_edit_text.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bg_edit_text.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_key_folder.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\key_folder.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_gateway_config.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_gateway_config.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_bluetooth_icon_s.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\bluetooth_icon_s.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_download_icon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/download_icon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checkbox_on_background.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checkbox_on_background.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_g4.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/g4.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_extralight.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_extralight.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_connection.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_connection.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/raw_bluetooth_connecting.json.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/raw/bluetooth_connecting.json"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_circle_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\circle_yellow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_ubuntu_light.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/ubuntu_light.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_signal_4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_signal_4.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_splash.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/splash.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_system_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_system_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_allfiles.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/allfiles.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_view_data_item.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\view_data_item.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bluetooth_icon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bluetooth_icon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_monitor_parameter.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_monitor_parameter.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_graph.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_graph.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_hanalei.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/hanalei.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_share.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_red_arrow.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/red_arrow.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_logger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_logger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_url_settings.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_url_settings.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_crosscircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\crosscircle.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_arrow.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_arrow.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_watch.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_watch.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_unchecked_checkbox_icon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/unchecked_checkbox_icon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_arrow_right.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_bold.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_bold.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_reset.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_spinner_drop_down.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/spinner_drop_down.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_baseline_3d_rotation_24.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_baseline_3d_rotation_24.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_regular.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_regular.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_signal_1.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_signal_1.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_shutdown_datalogger.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_shutdown_datalogger.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_clock.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_view_data.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_view_data.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_sample.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_sample.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/navigation_nav_graph.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_watch.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_watch.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/raw_setup.json.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/raw/setup.json"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_ubuntu_light.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\ubuntu_light.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bg_main.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bg_main.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_arrow_right.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_edit_text_9_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/edit_text_9_bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_circle_transparent.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\circle_transparent.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_carme.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/carme.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_bgtopheader.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_bgtopheader.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_happy_monkey.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/happy_monkey.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_setup_wizard.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_setup_wizard.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_light.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_light.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_arrow_up.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_refresh.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/refresh.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_circle_green.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\circle_green.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_dialog_connecting.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/dialog_connecting.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_modem_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_modem_configuration.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_progress_bar_theme.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/progress_bar_theme.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_bluetooth_icon_s.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\bluetooth_icon_s.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_button_bg_main.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/button_bg_main.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_signal_2.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_signal_2.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_allowpermissionsteps.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/allowpermissionsteps.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_logger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_logger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_reset.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_reset.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_arrow_down.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_arrow_down.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_signal_3.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_signal_3.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_view_data.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_view_data.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_graph.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/graph.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_arrow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_trade_winds.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/trade_winds.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_phone.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_delete.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_delete.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_armata.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\armata.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_arrow_up.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_arrow_up.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_sample.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_sample.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/anim_popup_hide.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/anim/popup_hide.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_icon_name.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\icon_name.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_show_chart.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_show_chart.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_light.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_light.ttf"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error_0.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error_0.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_circle_transparent.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\circle_transparent.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_autour_one.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/autour_one.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error_0.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error_0.gif"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_drawing.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_drawing.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_bluetooth_connecting.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\bluetooth_connecting.json"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_baseline_3d_rotation_24.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_baseline_3d_rotation_24.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xhdpi_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xhdpi\\main.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/anim_right_to_left.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/anim/right_to_left.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_node_config.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_node_config.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_temp.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/temp.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_bluetooth_icon_s.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\bluetooth_icon_s.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_warning_icon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/warning_icon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_arrow_up.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_node_config.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_node_config.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_crosscircle.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\crosscircle.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_averia_serif_libre_light.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/averia_serif_libre_light.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_phone.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable-mdpi_company_logo.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-debug-43:/drawable-mdpi/company_logo.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_custom_cylin_button.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\custom_cylin_button.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_signal_4.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_signal_4.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_signal_3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_signal_3.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_view_data_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/view_data_bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_system_information.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_system_information.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_information.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_information.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_modem_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_modem_configuration.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_system_information.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_system_information.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-sw600dp_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-sw600dp\\main.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_upload_data_item.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/upload_data_item.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_wave.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\wave.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_black.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_black.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_shutdown_datalogger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_shutdown_datalogger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_semibold.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_semibold.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_mediumitalic.ttf"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_g2.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/g2.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_edit_text_9_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\edit_text_9_bg.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_blackitalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_blackitalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_monitor_parameter.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_monitor_parameter.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_phone.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_phone.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_signal_1.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_signal_1.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_hind_light.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/hind_light.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_droid_serif_bold_italic.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/droid_serif_bold_italic.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_quit.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_quit.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_bungee.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/bungee.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_krona_one.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/krona_one.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_battery_white.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_battery_white.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_save.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_save.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_allowpermissionsteps.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\allowpermissionsteps.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_heading_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/heading_bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_battery_white.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_battery_white.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_setup_wizard.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_setup_wizard.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_new_rocker.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\new_rocker.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_icon_name.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/icon_name.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_refresh.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\refresh.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_device_name.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/device_name.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_show_chart.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_show_chart.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_upload_data.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_upload_data.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_near_by_devices_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_near_by_devices_permission.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_spinner_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/spinner_bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_bungee.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\bungee.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_capriola.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/capriola.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_arrow_down.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_arrow_down.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_empty_data.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/empty_data.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_heading_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\heading_bg.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_unlock.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/unlock.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_arrow_down.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_arrow_down.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_bolditalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_bolditalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_signal_0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_signal_0.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error_5.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error_5.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_calender.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_new_rocker.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/new_rocker.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_phone.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_icon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/icon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_modem_configuration.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_modem_configuration.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_graph.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_graph.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_arrow_up.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checked_checkbox_icon.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checked_checkbox_icon.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_drawing.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_drawing.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/anim_popup_show.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/anim/popup_show.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_circle_transparent.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\circle_transparent.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_earse.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/earse.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_circle_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\circle_yellow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_graph.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_graph.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_bgtopheader.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_bgtopheader.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_mediumitalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_mediumitalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_logger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_logger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_amiko.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/amiko.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_g3.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/g3.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_adamina.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\adamina.ttf"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_gateway_info.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_gateway_info.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_connection.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_connection.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_edit_text_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/edit_text_bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_drawing.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_drawing.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_frank_ruhl_libre_medium.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/frank_ruhl_libre_medium.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_watch.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_watch.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_main.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/main.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checkbox_off_background.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checkbox_off_background.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_connection.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_connection.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_drawing.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_drawing.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_extrabold.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_extrabold.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_crosscircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\crosscircle.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bg.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bg.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_graph.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_graph.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_send.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_send.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_color_selector.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\color_selector.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_sample.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_sample.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_signal_0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_signal_0.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/anim_left_to_right.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/anim/left_to_right.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_temp.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\temp.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_thin.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_thin.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_key_folder.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\key_folder.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_modem_on.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/modem_on.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_upload_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_upload_data.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_cousine.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/cousine.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_arrow_up.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_arrow_up.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_arrow.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/arrow.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_save.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_stalinist_one.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/stalinist_one.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_shutdown_datalogger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_shutdown_datalogger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_lightitalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_lightitalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_info.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\info.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bg_menu_button.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bg_menu_button.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_system_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_system_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_circle_red.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/circle_red.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bluetooth_icon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bluetooth_icon.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_italic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_italic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_reset.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/raw_frequency_1.json.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/raw/frequency_1.json"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_signal_4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_signal_4.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_adamina.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/adamina.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_circle_red.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\circle_red.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_cantata_one.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/cantata_one.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_baseline_3d_rotation_24.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_baseline_3d_rotation_24.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_semibolditalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_semibolditalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_stalinist_one.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\stalinist_one.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_upload_data.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_upload_data.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_system_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_system_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error_1.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error_1.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_send.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_signal_2.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_signal_2.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_drawing.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_drawing.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_color_selector.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/color_selector.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_custom_cylin_button.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/custom_cylin_button.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_scan_and_format.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_scan_and_format.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/raw_bluetooth_connect.json.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/raw/bluetooth_connect.json"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_carme.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\carme.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checkbox_off_background_focus_yellow.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checkbox_off_background_focus_yellow.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_drawing.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_drawing.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_battery.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_battery.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_shutdown_datalogger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_shutdown_datalogger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_all_file_permission.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_all_file_permission.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_information.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_archivo_black.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/archivo_black.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_system_configuration.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_system_configuration.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_scan_and_format.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_scan_and_format.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_view_data_item.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/view_data_item.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_signal_4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_signal_4.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_arrow_right.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_arrow_right.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_battery_white.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_battery_white.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checkbox_on_background_focus_yellow.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checkbox_on_background_focus_yellow.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_trade_winds.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\trade_winds.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_node_wizard.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_node_wizard.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_battery_white.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_battery_white.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_trocchi.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/trocchi.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_ic_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\ic_bg.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checkbox_on_background.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checkbox_on_background.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_arbutus.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\arbutus.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_myrect.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/myrect.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_calender.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_kanit_thinitalic.ttf.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/kanit_thinitalic.ttf"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_circle_green.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\circle_green.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/layout_activity_near_by_devices_permission.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/layout/activity_near_by_devices_permission.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\icon.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_checkbox_off_background.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/checkbox_off_background.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_shutdown_datalogger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_shutdown_datalogger.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_info.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/info.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_view_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_view_data.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_modem_configuration.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_modem_configuration.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_circle_yellow.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\circle_yellow.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_ic_share.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/ic_share.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_clock.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_clock.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/anim_bottom_to_top.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/anim/bottom_to_top.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_send.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_bg_text_view.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/bg_text_view.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_modem_on.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\modem_on.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_error_4.gif.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/error_4.gif"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_save.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_save.xml"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/font_brawler.xml.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/font/brawler.xml"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_arrow.png"
     },
     {
-        "merged": "com.encardio.er_ngrf.activity.app-merged_res-42:/drawable_start.png.flat",
-        "source": "com.encardio.er_ngrf.activity.app-main-44:/drawable/start.png"
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_scan_and_format.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_scan_and_format.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_quit.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_quit.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_graph.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_graph.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_bluetooth_icon_s.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\bluetooth_icon_s.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bg_edit_text.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xhdpi_device_name.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xhdpi\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_arrow_down.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_view_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_view_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_watch.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_myrect.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\myrect.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_custom_time_picker.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\custom_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_scan_and_format.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_scan_and_format.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_frank_ruhl_libre_medium.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\frank_ruhl_libre_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_circle_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\circle_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_sample.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_sample.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_graph.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xxxhdpi_activity_all_file_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xxxhdpi\\activity_all_file_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_connection.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_connection.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_arrow_down.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_upload_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_upload_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_connection.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_connection.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_battery_white.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_battery_white.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checkbox_on_background_focus_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checkbox_on_background_focus_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_refresh.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_start.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xxhdpi_device_name.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xxhdpi\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_reset.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_show_chart.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\anim_bottom_to_top.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\anim\\bottom_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_filesicon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\filesicon.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_warning_icon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\warning_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_crosscircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\crosscircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_spinner_drop_down.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\spinner_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_setup_wizard.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_setup_wizard.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_system_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_system_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_signal_4.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_signal_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_graph.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_graph.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xxhdpi_activity_all_file_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xxhdpi\\activity_all_file_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_earse.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\earse.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_g0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\g0.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_monitor_parameter.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_monitor_parameter.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_watch.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_circle_green.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_frequency_1.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\frequency_1.json"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_save.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_upload_data_item.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\upload_data_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_monitor_parameter.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_monitor_parameter.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_company_logo.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-debug-44:\\drawable-mdpi\\company_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_signal_3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_reset.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_scan_and_format.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_scan_and_format.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_lightitalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_battery_white.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_battery_white.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_information.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_hind_light.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\hind_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_circle_red.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\circle_red.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_circle_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\circle_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_g2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\g2.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_upload_data.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_upload_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_battery.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-sw600dp_device_name.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-sw600dp\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_save.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_wireless.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\wireless.json"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_bolditalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_refresh3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\refresh3.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_gateway_config.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_gateway_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_archivo_black.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_splash.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_signal_1.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_signal_1.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_amiko.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\amiko.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_key_folder.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\key_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_show_chart.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_unlock.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\unlock.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_regular.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_signal_3.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_signal_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_key_folder.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\key_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_black.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_red_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\red_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_view_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_view_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\anim_popup_show.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\anim\\popup_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_refresh.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_semibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\anim_right_to_left.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\anim\\right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_battery.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_g4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\g4.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_battery.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_upload_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_upload_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_modem_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_modem_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_battery.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\anim_left_to_right.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\anim\\left_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_circle_red.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\circle_red.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_bold.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xxxhdpi_device_name.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xxxhdpi\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_show_chart.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_baseline_3d_rotation_24.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_baseline_3d_rotation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_logger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_logger.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_krona_one.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\krona_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_refresh.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_bgtopheader.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_bgtopheader.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_circle_red.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_connection.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_connection.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_show_chart.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_baseline_3d_rotation_24.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_baseline_3d_rotation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bg_text_view.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bg_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_allfilesicon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\allfilesicon.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_battery.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_baseline_3d_rotation_24.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_baseline_3d_rotation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error_1.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_save.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_hanalei.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\hanalei.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_bluetooth_connect.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\bluetooth_connect.json"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_node_wizard.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_node_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_droid_serif_bold_italic.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\droid_serif_bold_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_bgtopheader.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_bgtopheader.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_crosscircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\crosscircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_connection.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_connection.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_circle_red.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\circle_red.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v24_ic_setup_wizard.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v24\\ic_setup_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bg_main.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bg_main.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_autour_one.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\autour_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_shutdown_datalogger.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_shutdown_datalogger.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_logger.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_logger.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_graph.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_crosscircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\crosscircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_drawing.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_drawing.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_customsizebleiconhdpi.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\customsizebleiconhdpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_checked_checkbox.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\checked_checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_signal_1.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_signal_1.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_refresh.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_signal_3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xxhdpi_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xxhdpi\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_circle_green.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_refresh.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_information_2.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\information_2.json"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_show_chart.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_logger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_logger.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_system_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_system_information.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v24_checkcircle.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v24\\checkcircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-sw600dp_activity_all_file_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-sw600dp\\activity_all_file_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_cousine.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\cousine.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_signal_0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_signal_0.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_upload_data.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_upload_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_phone.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_drawing.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_drawing.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error.gif"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_signal_1.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_signal_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_system_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_system_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_medium.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_send.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_battery.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_battery.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_scan_and_format.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_scan_and_format.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_key_folder.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\key_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_signal_2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_sample.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_sample.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_allfiles.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\allfiles.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_checkcircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\checkcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_shutdown_datalogger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_shutdown_datalogger.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_signal_1.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_signal_1.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_unchecked_checkbox_icon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\unchecked_checkbox_icon.png"
+    },
+    {
+        "merged": "com.encardio.er_ngrf.activity.app-merged_res-43:/layout-xxhdpi_main.xml.flat",
+        "source": "com.encardio.er_ngrf.activity.app-main-45:/layout-xxhdpi/main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error_4.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error_4.gif"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\raw_signal1.json.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\raw\\signal1.json"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_graph.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_graph.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_arrow_down.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_baseline_3d_rotation_24.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_baseline_3d_rotation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_shutdown_datalogger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_shutdown_datalogger.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_checkcircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\checkcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\anim_popup_hide.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\anim\\popup_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_signal_2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error_3.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_modem_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_modem_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_signal_1.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_signal_1.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_jacques_francois_shadow.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\jacques_francois_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_brawler.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\brawler.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_spinner_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_signal_2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bg_menu_button.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bg_menu_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_unchecked_checkbox.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\unchecked_checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_watch.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_send.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_averia_serif_libre_light.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\averia_serif_libre_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_system_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_system_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_url_settings.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_url_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_system_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_system_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_extrabold.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_signal_0.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_signal_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_logger.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_logger.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_company_logo_e.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-debug-44:\\drawable-xhdpi\\company_logo_e.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_sample.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xxxhdpi_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xxxhdpi\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_blackitalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_bluetooth_icon_s.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\bluetooth_icon_s.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_signal_4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_signal_4.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_circle_red.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\circle_red.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_signal_2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_send.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_bluetooth_icon_s.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\bluetooth_icon_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error_2.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_checkcircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\checkcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-xhdpi_activity_all_file_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-xhdpi\\activity_all_file_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-hdpi_device_name.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-hdpi\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_calender.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_calender.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_checkcircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\checkcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\anim_top_to_bottom.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\anim\\top_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_information.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_circle_transparent.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\circle_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_happy_monkey.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\happy_monkey.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_thin.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_capriola.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\capriola.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_error_5.gif.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\error_5.gif"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_view_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_view_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_signal_3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_node_info.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_node_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_thinitalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_view_data.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_view_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_cantata_one.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\cantata_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_monitor_parameter.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_monitor_parameter.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_battery.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_key_folder.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\key_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_all_file_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_all_file_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_signal_4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_signal_4.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_watch.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_checkcircle.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\checkcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_arrow.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_system_configuration.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_system_configuration.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_sample.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_sample.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_circle_transparent.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\circle_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_button_bg_main.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\button_bg_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_monitor_parameter.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_monitor_parameter.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_calender.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_extralightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_activity_gateway_info.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\activity_gateway_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_signal_3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_quit.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_key_folder.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\key_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_bgtopheader.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_bgtopheader.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_view_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_view_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_italic.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_show_chart.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\font_kanit_extralight.ttf.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\font\\kanit_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable_download_icon.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\drawable\\download_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_clock.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_spinner_drop_down_selected.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\spinner_drop_down_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_circle_yellow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\circle_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_signal_2.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_signal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout-hdpi_activity_all_file_permission.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout-hdpi\\activity_all_file_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_signal_3.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_signal_0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_signal_0.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_system_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_system_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_quit.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_baseline_3d_rotation_24.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_baseline_3d_rotation_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xhdpi_ic_signal_4.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xhdpi\\ic_signal_4.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_circle_transparent.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\circle_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_modem_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_modem_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_refresh.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_system_information.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_system_information.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\layout_dialog_connecting.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-main-45:\\layout\\dialog_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_signal_0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_signal_0.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_system_configuration.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_system_configuration.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v24_ic_bgtopheader.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v24\\ic_bgtopheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_ic_quit.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\ic_quit.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-hdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-hdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_setup_wizard.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_setup_wizard.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_upload_data.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_upload_data.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxxhdpi_ic_signal_0.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxxhdpi\\ic_signal_0.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_bgtopheader.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_bgtopheader.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-ldpi_ic_delete.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-anydpi-v21_circle_transparent.xml.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-anydpi-v21\\circle_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-mdpi_ic_setup_wizard.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-mdpi\\ic_setup_wizard.png"
+    },
+    {
+        "merged": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-merged_res-43:\\drawable-xxhdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\manishk\\.gradle\\daemon\\7.4\\com.encardio.er_ngrf.activity.app-pngs-38:\\drawable-xxhdpi\\ic_clock.png"
     }
 ]

@@ -5,6 +5,7 @@ import static com.encardio.er_ngrf.bluetooth.Communication_Tool.DEFAULT_TEXT;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.bluetooth.BluetoothAdapter;
@@ -15,6 +16,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.location.LocationManager;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -46,7 +48,18 @@ public class DeviceListActivity extends Activity {
     private BluetoothAdapter mBtAdapter;
     private final OnItemClickListener mDeviceClickListener = new OnItemClickListener() {
         public void onItemClick(AdapterView<?> av, View v, int arg2, long arg3) {
-
+            if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                if (ActivityCompat.checkSelfPermission(DeviceListActivity.this, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                    // TODO: Consider calling
+                    //    ActivityCompat#requestPermissions
+                    // here to request the missing permissions, and then overriding
+                    //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                    //                                          int[] grantResults)
+                    // to handle the case where the user grants the permission. See the documentation
+                    // for ActivityCompat#requestPermissions for more details.
+                    return;
+                }
+            }
             mBtAdapter.cancelDiscovery();
 
             String info = ((TextView) v).getText().toString();
@@ -63,7 +76,7 @@ public class DeviceListActivity extends Activity {
                 Communication_Tool.isNewBluetoothConnection = true;
 
 
-              //  Intent intent = new Intent();
+                //  Intent intent = new Intent();
 
 //                Intent intent = new Intent(DeviceListActivity.this,SplashActivity.class);
 //                intent.putExtra(EXTRA_DEVICE_ADDRESS, address);
@@ -89,6 +102,19 @@ public class DeviceListActivity extends Activity {
 
                 BluetoothDevice device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
 
+                if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                    if (ActivityCompat.checkSelfPermission(DeviceListActivity.this, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                        // TODO: Consider calling
+                        //    ActivityCompat#requestPermissions
+                        // here to request the missing permissions, and then overriding
+                        //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                        //                                          int[] grantResults)
+                        // to handle the case where the user grants the permission. See the documentation
+                        // for ActivityCompat#requestPermissions for more details.
+                        return;
+                    }
+                }
+
                 if (device.getBondState() != BluetoothDevice.BOND_BONDED) {
                     if (device.getName().startsWith(Communication_Tool.BT_DEVICE_NAME))
                         mNewDevicesArrayAdapter.add(device.getName() + "\n" + device.getAddress());
@@ -110,7 +136,7 @@ public class DeviceListActivity extends Activity {
     private String mConnectedDeviceName = null;
     public static final String DEVICE_NAME = "device_name";
     private Communication_Tool consts;
-   // ProgressDialog alertForConnecting;
+    // ProgressDialog alertForConnecting;
     Dialog alertForConnecting;
     public static final int MESSAGE_STATE_CHANGE = 1;
     public static final int MESSAGE_READ = 2;
@@ -121,7 +147,7 @@ public class DeviceListActivity extends Activity {
     String batteryVoltage;
     String batteryType;
     String batteryInstallationDate;
-
+    ArrayAdapter<String> mPairedDevicesArrayAdapter;
 
 
     @SuppressLint("HandlerLeak")
@@ -143,7 +169,7 @@ public class DeviceListActivity extends Activity {
                             Variable.isConnected = true;
                             Variable.gotReply = true;
 
-                            if (consts.wakeUpDL()) {
+                          //  if (consts.wakeUpDL()) {
 
                                 if (sendConnectionCMD()) {
                                     if (Communication_Tool.BATTERY_DEAD_STATUS == Communication_Tool.sc) {
@@ -175,7 +201,7 @@ public class DeviceListActivity extends Activity {
                                         }
                                     }
                                 }
-                            }
+                           // }
 
                             break;
                         case BluetoothService.STATE_CONNECTING:
@@ -183,8 +209,15 @@ public class DeviceListActivity extends Activity {
 //                            img_connection_status.setImageResource(R.drawable.circle_red);
 //                            img_scan_status.setImageResource(R.drawable.circle_red);
 //                            txt_datalogger_id.setText(DEFAULT_TEXT);
-                            initProgressDialog();
-                            alertForConnecting.show();
+
+                            try{
+                                initProgressDialog();
+                                alertForConnecting.show();
+                            }catch (Exception e){
+
+                                Log.e("exp",e.toString());
+                            }
+
                             break;
                         case BluetoothService.STATE_LISTEN:
                         case BluetoothService.STATE_NONE:
@@ -225,19 +258,17 @@ public class DeviceListActivity extends Activity {
     };
 
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-      //  requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);
+        //  requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);
         setContentView(R.layout.device_list);
 
         setResult(Activity.RESULT_CANCELED);
 
         consts = new Communication_Tool();
-        ArrayAdapter<String> mPairedDevicesArrayAdapter = new ArrayAdapter<>(this, R.layout.device_name);
+        mPairedDevicesArrayAdapter = new ArrayAdapter<>(this, R.layout.device_name);
         mNewDevicesArrayAdapter = new ArrayAdapter<>(this, R.layout.device_name);
 
         ListView pairedListView = findViewById(R.id.paired_devices);
@@ -254,16 +285,46 @@ public class DeviceListActivity extends Activity {
 
         if (!mBtAdapter.isEnabled()) {
 
-            if (ActivityCompat.checkSelfPermission(this, Manifest.permission.BLUETOOTH_CONNECT) == PackageManager.PERMISSION_GRANTED) {
-                Intent enableIntent = new Intent(
-                        BluetoothAdapter.ACTION_REQUEST_ENABLE);
-                startActivityForResult(enableIntent, REQUEST_ENABLE_BT);
+            if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                if (ActivityCompat.checkSelfPermission(this, Manifest.permission.BLUETOOTH_CONNECT) == PackageManager.PERMISSION_GRANTED) {
+                    Intent enableIntent = new Intent(
+                            BluetoothAdapter.ACTION_REQUEST_ENABLE);
+                    startActivityForResult(enableIntent, REQUEST_ENABLE_BT);
+                }
+            }else{
+
+
+                    Intent enableIntent = new Intent(
+                            BluetoothAdapter.ACTION_REQUEST_ENABLE);
+                    startActivityForResult(enableIntent, REQUEST_ENABLE_BT);
+
+
             }
 
+
+            }
+
+
+
+   showPairedDevices();
+
+
+    }
+
+
+    public void showPairedDevices() {
+
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+
+
+            if (ActivityCompat.checkSelfPermission(this, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                return;
+            }
         }
 
-
         Set<BluetoothDevice> pairedDevices = mBtAdapter.getBondedDevices();
+
+        mPairedDevicesArrayAdapter.clear();
 
         if (pairedDevices.size() > 0) {
             findViewById(R.id.title_paired_devices).setVisibility(View.VISIBLE);
@@ -283,6 +344,18 @@ public class DeviceListActivity extends Activity {
         super.onDestroy();
 
         if (mBtAdapter != null) {
+            if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                if (ActivityCompat.checkSelfPermission(this, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                    // TODO: Consider calling
+                    //    ActivityCompat#requestPermissions
+                    // here to request the missing permissions, and then overriding
+                    //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                    //                                          int[] grantResults)
+                    // to handle the case where the user grants the permission. See the documentation
+                    // for ActivityCompat#requestPermissions for more details.
+                    return;
+                }
+            }
             mBtAdapter.cancelDiscovery();
         }
 
@@ -300,6 +373,7 @@ public class DeviceListActivity extends Activity {
         try {
 
 
+                   Communication_Tool.bluetoothService = null;
 
                 if (Communication_Tool.bluetoothService == null) {
                     setupBluetoothService();
@@ -333,7 +407,10 @@ public class DeviceListActivity extends Activity {
         if (consts.wakeUpDL()) {
             try {
                 Variable.logger_Model = Tool.removeDQ(consts.sendCMDgetRLY("MODEL,\"?\"")).trim();
+                //Variable.totalNumberOfRecord = Tool.removeDQ(consts.sendCMDgetRLY("NOOFREC,\"?\"")).trim();
                 Log.e("Model", Variable.logger_Model);
+               // Log.e("NoOfRec", Variable.totalNumberOfRecord);
+
 
                 if (Communication_Tool.sc == Communication_Tool.OK_STATUS) {
                     Variable.logger_ID = Tool.removeDQ(consts
@@ -464,7 +541,8 @@ public class DeviceListActivity extends Activity {
 
 
     private void initProgressDialog() {
-        alertForConnecting = new Dialog(this);
+        alertForConnecting = new Dialog(DeviceListActivity.this);
+        alertForConnecting.requestWindowFeature(Window.FEATURE_NO_TITLE);
         alertForConnecting.setContentView(R.layout.dialog_connecting);
         TextView tv=  alertForConnecting.findViewById(R.id.connecting);
 
@@ -478,6 +556,7 @@ public class DeviceListActivity extends Activity {
 
 
     private void setupBluetoothService() {
+
 
         Communication_Tool.bluetoothService = new BluetoothService(this, mHandler
         );
@@ -497,6 +576,19 @@ public class DeviceListActivity extends Activity {
                     String address = data.getExtras().getString(
                             Communication_Tool.EXTRA_DEVICE_ADDRESS);
 
+                    if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.S){
+                        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.BLUETOOTH_CONNECT) != PackageManager.PERMISSION_GRANTED) {
+                            // TODO: Consider calling
+                            //    ActivityCompat#requestPermissions
+                            // here to request the missing permissions, and then overriding
+                            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                            //                                          int[] grantResults)
+                            // to handle the case where the user grants the permission. See the documentation
+                            // for ActivityCompat#requestPermissions for more details.
+                            return;
+                        }
+                    }
+
                     BluetoothDevice device = mBtAdapter
                             .getRemoteDevice(address);
                     m_connectingDeviceName = device.getName();
@@ -504,8 +596,8 @@ public class DeviceListActivity extends Activity {
                     Communication_Tool.BLUETOOTH_DEVICE = m_connectingDeviceName;
 
                     try {
-                        Communication_Tool.bluetoothService = new BluetoothService(this,
-                                mHandler);
+//                        Communication_Tool.bluetoothService = new BluetoothService(this,
+//                                mHandler);
                         Communication_Tool.bluetoothService.connect(device);
                     } catch (Exception e) {
                         e.printStackTrace();
@@ -516,7 +608,8 @@ public class DeviceListActivity extends Activity {
 
             case REQUEST_ENABLE_BT:
                 if (resultCode == Activity.RESULT_OK) {
-                    setupBluetoothService();
+                    //setupBluetoothService();
+                    showPairedDevices();
                     Communication_Tool.isBTenabledByApp = true;
                 } else {
                     Toast.makeText(this, "Bluetooth connection failure...",
